@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<annuaire>
+	<personne id="0">
+		<nom>nom0</nom>
+		<prenom>prenom0</prenom>
+		<adresse>adresse0</adresse>
+	</personne>
+	<personne id="1">
+		<nom>nom1</nom>
+		<prenom>prenom1</prenom>
+		<adresse>adresse1</adresse>
+	</personne>
+</annuaire>
